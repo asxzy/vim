@@ -106,3 +106,6 @@ set sts=4
 set mouse-=a
 set clipboard=unnamedplus
 set backupdir=~/.vimbackup
+
+set background=dark
+colorscheme solarized
