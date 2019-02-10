@@ -107,3 +107,7 @@ set mouse-=a
 set clipboard=unnamedplus
 set backupdir=~/.vimbackup
 set directory=~/.vimbackup
+
+" remap ctrl+c/jk as esc for MBP with Touchbar
+inoremap Ctrl-c <esc>
+inoremap jk <esc>
